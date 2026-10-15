@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+requests>=2.31
+google-analytics-data>=0.18
+google-auth>=2.20
+anthropic>=0.40
